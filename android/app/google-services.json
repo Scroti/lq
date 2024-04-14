@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27353459798",
+    "project_id": "lqselgros",
+    "storage_bucket": "lqselgros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27353459798:android:8ccaa2ccc4d39cfc959ff7",
+        "android_client_info": {
+          "package_name": "com.mycompany.lqselgros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbymn_a642MmPJAHvDSCB0-l-_A1bi2cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
